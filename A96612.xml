@@ -1,0 +1,960 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The fourth paper, presented by Maior Butler, to the Honourable Committee of Parliament, for the propagating the gospel of Christ Jesus. VVhich paper was humbly owned, and was, and is attended to be made good by Major Butler. Mr. Charles Vane. Col. Danvers. Mr. Iackson. Mr. VVall. And Mr. Turner. Also a letter from Mr. Goad, to Major Butler, upon occasion of the said paper and proposals. Together with a testimony to the said fourth paper, by way of explanation upon the four proposals of it. / By R.W. Unto which is subjoyned the fifteen proposals of the ministers.</title>
+            <author>Williams, Roger, 1604?-1683.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1652</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 49 KB of XML-encoded text transcribed from 14 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A96612</idno>
+            <idno type="STC">Wing W2763</idno>
+            <idno type="STC">Thomason E658_9</idno>
+            <idno type="STC">ESTC R206692</idno>
+            <idno type="EEBO-CITATION">99865808</idno>
+            <idno type="PROQUEST">99865808</idno>
+            <idno type="VID">118059</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A96612)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 118059)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 101:E658[9])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The fourth paper, presented by Maior Butler, to the Honourable Committee of Parliament, for the propagating the gospel of Christ Jesus. VVhich paper was humbly owned, and was, and is attended to be made good by Major Butler. Mr. Charles Vane. Col. Danvers. Mr. Iackson. Mr. VVall. And Mr. Turner. Also a letter from Mr. Goad, to Major Butler, upon occasion of the said paper and proposals. Together with a testimony to the said fourth paper, by way of explanation upon the four proposals of it. / By R.W. Unto which is subjoyned the fifteen proposals of the ministers.</title>
+                  <author>Williams, Roger, 1604?-1683.</author>
+               </titleStmt>
+               <extent>[4], 23, [1] p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for Giles Calvert, at the Black-spred-Eagle at the West-end of Pauls,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>MDCLII. [1652]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>R.W. = Roger Williams.</note>
+                  <note>Annotation on Thomason copy: "March. 30th".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Conversion --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2007-03</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2007-03</date>
+            <label>Aptara</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-02</date>
+            <label>Judith Siefring</label>Sampled and proofread</change>
+         <change>
+            <date>2009-02</date>
+            <label>Judith Siefring</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2009-09</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:118059:1" rendition="simple:additions"/>
+            <p>The Fourth Paper,
+Preſented by
+Maior Butler,
+To the Honourable Committee of
+Parliament, for the Propagating the
+Goſpel of <hi>Chriſt</hi> JESUS. VVhich Paper was humbly owned, and
+was, and is attended to be made good
+<list>
+                  <item>By</item>
+                  <item>Major <hi>Butler.</hi>
+                  </item>
+                  <item>Mr. <hi>Charles Vane.</hi>
+                  </item>
+                  <item>Col. <hi>Danvers.</hi>
+                  </item>
+                  <item>Mr. <hi>Iackſon.</hi>
+                  </item>
+                  <item>Mr. <hi>VVall.</hi> And</item>
+                  <item>Mr. <hi>Turner.</hi>
+                  </item>
+               </list> ALSO
+A Letter from Mr. <hi>Goad,</hi> to Major
+BUTLER, upon occaſion of the ſaid
+PAPER and PROPOSALS. <hi>Together with</hi>
+A Teſtimony to the ſaid fourth Paper,
+By way of Explanation upon the four
+PROPOSALS of it.</p>
+            <p>
+               <hi>BY</hi> R. W.</p>
+            <p>Unto which is ſubjoyned the Fifteen Propoſals
+of the MINISTERS.</p>
+            <p>
+               <hi>London,</hi> Printed for <hi>Giles Calvert,</hi> at the Black-ſpred-Eagle at the
+Weſt-end of <hi>Pauls. MDCLII.</hi>
+            </p>
+         </div>
+         <div type="to_the_reader">
+            <pb facs="tcp:118059:2"/>
+            <pb facs="tcp:118059:2"/>
+            <head>To the truly Chriſtian Reader.</head>
+            <p>
+               <seg rend="decorInit">I</seg>F all the <hi>Angels</hi> in <hi>Heaven</hi> were turned into a <hi>grand
+Committee,</hi> to conſult upon this <hi>high point</hi> of Pro<g ref="char:EOLhyphen"/>pagating
+the <hi>Goſpel</hi> of <hi>Jeſus Chriſt,</hi> they muſt needs
+agree in one unanimous <hi>Conſent</hi> and <hi>Vote</hi> (as <hi>Paul</hi>
+once ſpake upon the like occaſion) Who is <hi>ſufficient?</hi>
+We are not <hi>ſufficient</hi> for theſe things.</p>
+            <p>The Honourable <hi>Committee</hi> (according to the
+<hi>Parliaments</hi> order) hath freely (and with abundance of Chriſtian <hi>Civi<g ref="char:EOLhyphen"/>lity</hi>
+and gentleneſs) received many and ſeveral <hi>Papers</hi> from many and
+ſeveral ſorts of <hi>Men</hi> and <hi>Conſciences.</hi>
+            </p>
+            <p>I acknowledge a moſt wiſe <hi>providence</hi> of <hi>God,</hi> furniſhing this fourth
+<hi>paper</hi> with many Chriſtian <hi>Voluntiers,</hi> who chearfully <hi>ſubſcribing,</hi> left
+no convenience for my <hi>ſubſcription:</hi> But ſince the number of <hi>Propoſals</hi>
+is ſo increaſed, that little hopes appears of their Honours <hi>Time</hi> and <hi>Pur<g ref="char:EOLhyphen"/>poſe</hi>
+(if of <hi>Reading,</hi> yet hardly) of <hi>Examining</hi> and debating all of them.
+I am therefore humbly bold to preſent this <hi>Explication</hi> and <hi>Teſtimony,</hi>
+together with the Scriptures at large, for the more clear and eaſie diſco<g ref="char:EOLhyphen"/>very
+of the ſence and <hi>ſcope</hi> intended.</p>
+            <p>The <hi>Stationer</hi> was ſolicitous of gratifying the deſire of many with the
+ſight of the <hi>Miniſters</hi> fifteen <hi>Propoſals,</hi> as alſo of Mr. <hi>Goads Letter,</hi>
+and therefore are they both preſented. The <hi>liberty</hi> of <hi>Propheſying,</hi> and
+the <hi>liberty</hi> of <hi>Trying,</hi> and the <hi>liberty</hi> of preſenting unto <hi>Trial,</hi> are <hi>Mer<g ref="char:EOLhyphen"/>cies</hi>
+now vouchſafed to us, of higher <hi>value,</hi> then if our <hi>ſtreets</hi> (like thoſe
+of <hi>Jeruſalem</hi> to come) were (literally) of pure <hi>Gold,</hi> or if all our <hi>ſtones</hi>
+were the richeſt <hi>Diamonds</hi> and <hi>Rubies.</hi>
+            </p>
+            <p>My humble deſire is, to all that fear God, to cry to him to guide by
+his own <hi>Spirit,</hi> both the Honourable <hi>Committee,</hi> and the high Court of
+<hi>Parliament,</hi> to be jealous of their own <hi>Inſufficiencies</hi> to perceive the
+<hi>heighth</hi> of this <hi>buſineſs:</hi> the eaſineſs of <hi>miſtaking,</hi> the <hi>ſubtlety</hi> of the
+<hi>Serpent</hi> (who is not yet bound up from <hi>deceiving</hi> whole <hi>Nations</hi>) the
+<hi>Piety</hi> and <hi>Equity</hi> of <hi>Soul-freedom,</hi> the <hi>guilt</hi> of this <hi>Nation,</hi> As to <hi>Nati<g ref="char:EOLhyphen"/>onal
+ſuperſtitions,</hi> and <hi>Will-worſhips:</hi> As to the ſetting of the spiri<g ref="char:EOLhyphen"/>tual
+<hi>Crown</hi> of <hi>Chriſt Jeſus</hi> upon <hi>Henry</hi> 8. his head, and ſo ever ſince, As
+<pb facs="tcp:118059:3"/>
+to the ſtopping the <hi>breath</hi> of the <hi>Spirit</hi> of <hi>Chriſt Jeſus,</hi> and the perſecuting
+of the ſaid <hi>Lord Jeſus</hi> in his Witneſſes and Servants.</p>
+            <p>And ſince I have mentioned that point of <hi>perſecution,</hi> I will end with
+two excellent late Speeches of his <hi>Excellency</hi> the <hi>Lord General,</hi> upon oc<g ref="char:EOLhyphen"/>caſion
+of theſe Papers. The one before many <hi>witneſſes,</hi> to this purpoſe.
+I ſhall need no <hi>Revelation</hi> (ſaid that <hi>Noble Lord</hi>) to diſcover unto me
+that man that endeavours to <hi>impoſe</hi> upon his <hi>Brethren.</hi> The other, at a
+<hi>Debate</hi> of the Honourable <hi>Committee,</hi> and in a confluence of many Au<g ref="char:EOLhyphen"/>ditors;
+when it pleaſed an Honourable <hi>Gentleman</hi> of the <hi>Committee,</hi>
+zealouſly to argue againſt a <hi>Laodicean,</hi> and lukewarm <hi>indifferency</hi> in
+<hi>Religion,</hi> profeſſing for his part, That he had rather be a <hi>Saul</hi> then a
+<hi>Gallio.</hi> His Excellency with much <hi>Chriſtian zeal</hi> and <hi>affection</hi> for
+his own <hi>Conſcience</hi> profeſſed alſo, That he had rather that <hi>Mahumeta<g ref="char:EOLhyphen"/>niſm</hi>
+were permitted amongst us, then that one of Gods Children ſhould
+be perſecuted.</p>
+            <p>Such a <hi>ſpirit</hi> as it is from <hi>God,</hi> and the <hi>Lamb</hi> of <hi>God;</hi> ſo is it only
+like to guard this <hi>Nation</hi> from the <hi>Terrours</hi> of <hi>Ecclipſes,</hi> of <hi>Peſtilencies,</hi>
+of <hi>Navies,</hi> of <hi>Armies,</hi> of <hi>Men</hi> and <hi>Devils:</hi> For the pouring forth of this
+Spirit, and the <hi>Peace</hi> and <hi>Tranquility</hi> of this <hi>Nation,</hi> humbly prays</p>
+            <closer>
+               <signed>The unworthieſt of all the <hi>Followers</hi>
+and <hi>Witneſſes</hi> of <hi>Chriſt Jeſus.</hi>
+R. W.</signed>
+            </closer>
+         </div>
+      </front>
+      <body>
+         <div type="part">
+            <pb n="1" facs="tcp:118059:3"/>
+            <head>Certain Propoſals from the Scriptures, humbly
+Preſented to the Honourable Committee for the Pro<g ref="char:EOLhyphen"/>pagating
+of the Goſpel.</head>
+            <div n="1" type="proposal">
+               <head>Propoſ. I.</head>
+               <p>FRom <hi>Mat.</hi> 9. ult. Pray therefore the Lord of the Harveſt, that he
+would ſend forth Labourers, &amp;c.</p>
+               <p>
+                  <hi>Mat.</hi> 10. 5. 16. Behold I ſend you forth as Sheep amongst Wolves, &amp;c.</p>
+               <p>
+                  <hi>Act.</hi> 4. 19, 20. But Peter and John ſaid unto them, whether it be right
+in the ſight of God to hearken unto you, more then unto God, judge ye:
+For we cannot but ſpeak the things which we have ſeen and heard.</p>
+               <p>
+                  <hi>Epheſ.</hi> 4. 11. And he gave ſome Apoſtles, ſome Prophets, ſome E<g ref="char:EOLhyphen"/>vangeliſts,
+and ſome Paſtors and Teachers: for the work of the Mini<g ref="char:EOLhyphen"/>ſtry,
+&amp;c.</p>
+               <p>1 <hi>Cor.</hi> 12. 3. No man can ſay that Jeſus is the Lord, but by the
+Holy Spirit, &amp;c.</p>
+               <p>
+                  <hi>Gal.</hi> 1. 12. But I certifie you, that the Goſpel that was preached of
+me, is not after man, for neither received it I of man, neither was I taught
+it but by the Revelation of Jeſus Chriſt.</p>
+               <p>
+                  <hi>John</hi> 10. 11. Verily I ſay unto you, He that entreth not in by the
+door into the Sheepfold, but climbeth up ſome other way, the ſame is a
+Thief and a Robber: but he that entreth in by the door, is the Shepherd of
+the ſheep.</p>
+               <p>
+                  <hi>James</hi> 2. 1. My brethren, have not the faith of the Lord Jeſus, the
+Lord of glory, with respect of perſons.</p>
+               <p>1. It is humbly Propoſed, Whether Chriſt Je<g ref="char:EOLhyphen"/>ſus,
+the Lord of the Harveſt, doth not ſend forth
+Labourers into his Vineyard, furniſhing them by
+his Spirit, and bearing witneſs to their Labours,
+without the Teſtimony and Reward of men?</p>
+            </div>
+            <div n="2" type="proposal">
+               <pb n="2" facs="tcp:118059:4"/>
+               <head>Propoſ. II.</head>
+               <p>FRom <hi>Mat.</hi> 13. 24. The Parable of the Tares. <hi>ver.</hi> 38. The Field is
+the world; the good ſeed the children of the Kingdom, but the Tares
+the children of the wicked one.</p>
+               <p>
+                  <hi>Acts</hi> 5. 34. to the 40. Gamaliels advice concerning the Apoſtles.</p>
+               <p>1 <hi>Cor.</hi> 11. 19. For there muſt be alſo Hereſies amongst you, that they
+which are approved may be made manifeſt amongst you.</p>
+               <p>2 <hi>Pet.</hi> 2. 1. But there were falſe Prophets amongst them: even ſo
+there ſhall be falſe Teachers amongst you, who privily ſhall bring in dam<g ref="char:EOLhyphen"/>nable
+Hereſies, even denying the Lord that bought them, and bring upon
+themſelves ſwift deſtruction. <hi>So on to</hi> ver 10.</p>
+               <p>
+                  <hi>Jude</hi> 3. 4. 15. Contend earneſtly for the faith which was once deli<g ref="char:EOLhyphen"/>vered
+to the Saints, for there are certain men crept in &amp;c.</p>
+               <p>2 <hi>Tim.</hi> 2. 24, 25, 26. And the ſervant of the Lord muſt not ſtrive,
+but be gentle towards all men; If God peradventure will give them Re<g ref="char:EOLhyphen"/>pentance,
+&amp;c.</p>
+               <p>
+                  <hi>Luke</hi> 9. 49, 50. And John anſwered and ſaid, Maſter, we ſaw one
+caſting out devils in thy name, and we forbad him, becauſe he followeth
+not with us. And Jeſus ſaid unto him, Forbid him not, for he that is not
+againſt us, is for us.</p>
+               <p>2. It is humbly Propoſed, Whether it be not
+the Will (or Counſell) of God that there muſt be
+Hereſies, yea damnable Hereſies, that ſuch who are
+approved may be made manifeſt? And whether
+it be not the pleaſure of God, that the Judgement
+and Condemnation of ſuch falſe Teachers and
+Hereticks be left to himſelf?</p>
+            </div>
+            <div n="3" type="proposal">
+               <pb n="3" facs="tcp:118059:4"/>
+               <head>Propoſ. III.</head>
+               <p>FRom <hi>Rom.</hi> 14. 4. Who art thou that judgeſt another mans ſervant?</p>
+               <p>1 <hi>Cor.</hi> 7. 23. You are bought with a price, be not the ſervants of
+men.</p>
+               <p>
+                  <hi>Gal.</hi> 1. 16. I conferred not with fleſh and blood.</p>
+               <p>
+                  <hi>Gal.</hi> 5. 1. Stand faſt in the liberties wherewith Chriſt hath made
+you free.</p>
+               <p>
+                  <hi>Heb.</hi> 11. 6. Without faith it is impoſſible to pleaſe God.</p>
+               <p>1 <hi>John</hi> 4. 1. Believe not every spirit, but try the ſpirits, whether
+they be of God.</p>
+               <p>
+                  <hi>Rom.</hi> 14. ult. Whatſoever is not of faith is ſin, &amp;c.</p>
+               <p>3. It is humbly Propoſed, Whether for the Ci<g ref="char:EOLhyphen"/>vil
+powers to aſſume a Judgement in Spirituals,
+be not againſt the Liberties given by Chriſt Je<g ref="char:EOLhyphen"/>ſus
+to his people?</p>
+            </div>
+            <div n="4" type="proposal">
+               <head>Propoſ. IV.</head>
+               <head type="sub">From Rom. 11.</head>
+               <p>4. Whether it be not the duty of the Magiſtrate
+to permit the Jews, whoſe converſion we look
+for, to live freely and peaceably amongſt us?</p>
+            </div>
+         </div>
+         <div type="part">
+            <pb facs="tcp:118059:5"/>
+            <pb n="7" facs="tcp:118059:5"/>
+            <head>Mr. Goads Letter
+TO
+Maior Butler.</head>
+            <opener>
+               <salute>Major Butler,</salute>
+            </opener>
+            <p>
+               <seg rend="decorInit">Y</seg>Our <hi>Paper</hi> which you left with me, hath ſet
+my thoughts on work about the way of the
+propagating of the <hi>Goſpel,</hi> concerning which,
+<hi>quot homines tot ſententiae;</hi> we are neither of
+<hi>Paul,</hi> nor <hi>Apollo,</hi> nor <hi>Cephas:</hi> we are come
+into the unity of the <hi>Spirit,</hi> we are come to
+<hi>God</hi> the <hi>Iudge</hi> of all, and to <hi>Ieſus</hi> the <hi>Mediator</hi> of the new
+<pb n="6" facs="tcp:118059:6"/>
+               <hi>Covenant,</hi> we are returned unto the <hi>Archbiſhop</hi> of our <hi>Souls,</hi>
+and we cannot go back to mens <hi>Iudgements,</hi> though ſeem<g ref="char:EOLhyphen"/>ing
+Pillars, nor give our voice for the uſe of any <hi>Carnal
+weapons;</hi> knowing ſuch as are <hi>mighty</hi> through <hi>God</hi> to caſt
+down <hi>ſtrong holds,</hi> and high imaginations, and to wraſtle
+with <hi>principalities</hi> and powers, and the Ruler of the dark<g ref="char:EOLhyphen"/>neſs
+of this world, to which all the <hi>power, wiſdom,</hi> and
+<hi>righteouſneſs</hi> of man is altogether inſufficient, whilſt reach<g ref="char:EOLhyphen"/>ing
+not unto the <hi>Conſcience,</hi> where only comes the de<g ref="char:EOLhyphen"/>monſtration
+of the <hi>Spirit</hi> and power: and if it be ſaid that
+the <hi>Spirit</hi> goes forth in theſe, it is anſwered, that the <hi>Spi<g ref="char:EOLhyphen"/>rit</hi>
+going forth, diſmiſſeth theſe, as <hi>Gideon</hi> did his Soul<g ref="char:EOLhyphen"/>diers:
+Thus ſaith the Lord of Hoſts, <hi>Not by might, nor by
+power, but by my Spirit,</hi> when he was to build the <hi>Temple:</hi>
+it is the <hi>Croſs</hi> of <hi>Chriſt</hi> by which we are ſaved, and God
+forbid we ſhould rejoyce in any thing ſave that, by which
+the <hi>world</hi> is Crucified unto us, even in its wiſdom and
+righteouſneſs, and to undertake to carry the <hi>Croſs</hi> by theſe,
+is nonſence and contradiction; it is to make it of none ef<g ref="char:EOLhyphen"/>fect,
+which is <hi>weakneſs</hi> and <hi>fooliſhneſs</hi> unto the world,
+<hi>ſtronger</hi> and <hi>wiſer</hi> then the world. God hath made us able
+<hi>Miniſters</hi> of the new Teſtament, not of the Letter, but
+of the <hi>Spirit;</hi> and to go forth in any <hi>ſtrength</hi> and <hi>wiſdom,</hi>
+but in the <hi>Spirits,</hi> is to doubt of the <hi>Spirits</hi> truth and pow<g ref="char:EOLhyphen"/>er:
+and if it be asked where this <hi>power</hi> is, we anſwer, that
+it hath been long withdrawn, that the man of <hi>Sin</hi> might
+be revealed: but it will come forth, and is now coming,
+and we are reſolved to be <hi>weak,</hi> and <hi>fools</hi> in <hi>Chriſt,</hi> till we
+come forth in him, the <hi>wiſdom</hi> of <hi>God,</hi> and the <hi>power</hi> of
+<hi>God:</hi> to go forth in man, according to the <hi>Propoſals</hi> of
+ſome unto the <hi>Committee,</hi> is to go forth for <hi>Chriſt,</hi> againſt
+him: The <hi>Spirit</hi> of <hi>God</hi> his preſence did let and hinder
+<pb n="7" facs="tcp:118059:6"/>
+the revealing of the <hi>man</hi> of <hi>ſin,</hi> as the <hi>light</hi> keeps out the
+<hi>darkneſs:</hi> It is his return only that can deſtroy that <hi>ſin:</hi>
+and All goings forth of man againſt it, is the going forth
+of <hi>darkneſs,</hi> and <hi>ſin,</hi> and <hi>Satan,</hi> and ſo is but a further re<g ref="char:EOLhyphen"/>vealing
+of the man of ſin, whoſe appearance is in all <hi>de<g ref="char:EOLhyphen"/>ceivableneſs</hi>
+of <hi>unrighteouſneſs</hi> in them that periſh. Bleſſed
+are they who go forth in, and with the Lord, to the pro<g ref="char:EOLhyphen"/>pagation
+of the <hi>Goſpel,</hi> pray that it may have free paſſage,
+and be glorified: The Cauſewayes that we make for it,
+obſtruct it, that is, not <hi>preparing</hi> the way of the Lord:
+<hi>Chriſt</hi> is the <hi>way,</hi> the <hi>truth,</hi> and the <hi>life:</hi> let me have no
+<hi>God,</hi> no <hi>Chriſt,</hi> nor <hi>Truth</hi> that cannot defend themſelves
+and me, or deliver themſelves and me into <hi>freedome:</hi>
+having upon <hi>deſign</hi> ſuffered bonds to be put upon them,
+and therefore let <hi>error, ſin,</hi> and <hi>hell,</hi> and <hi>darkneſs</hi> come forth
+in their power, it is the will of <hi>God</hi> they ſhould do ſo, and
+that <hi>Pharaoh</hi> ſhould riſe unto his full greatneſs, that he
+may appear to be above him, and get himſelf honour up<g ref="char:EOLhyphen"/>on
+him. <hi>Antichriſt</hi> is now getting up upon his laſt legs,
+whoſe feet are <hi>Iron</hi> and <hi>Clay,</hi> there is life no where but in
+his <hi>ſtump,</hi> which is not enough to quicken him throughly
+in this his laſt image and <hi>form,</hi> in which he is coming
+forth: how ſoon was he thrown down in his laſt <hi>appear<g ref="char:EOLhyphen"/>ance</hi>
+and riſing among us? even before he could <hi>bite,</hi> his
+<hi>teeth</hi> were <hi>broken:</hi> God ſmote him on the <hi>Cheek bone:</hi>
+before the <hi>Thorns</hi> were grown hard to prick, the <hi>fire</hi> took
+hold of them, and <hi>God</hi> is finiſhing the work apace, and
+cutting it ſhort in righteouſneſs, even his utter <hi>conſumption</hi>
+and <hi>deſtruction</hi> by the <hi>brightneſs</hi> of his <hi>coming.</hi> There is
+no cauſe to fear for the tayl of this ſmoking firebrand, for
+the <hi>fire</hi> of the <hi>Lord</hi> upon it is not quenched, <hi>God</hi> will be a
+ſwift witneſs againſt this <hi>Sorcery,</hi> for ſo are all the dealings
+<pb n="8" facs="tcp:118059:7"/>
+of men in the things of God: and this foundation that
+ſome <hi>Propoſers</hi> are laying, will appear to be the <hi>abominati<g ref="char:EOLhyphen"/>on</hi>
+of <hi>deſolation<g ref="char:punc">▪</g>
+               </hi> When there is talking of <hi>foundation do<g ref="char:EOLhyphen"/>ctrines,</hi>
+when <hi>Chriſt</hi> is thruſt out of his <hi>office,</hi> who is the
+<hi>Corner ſtone</hi> refuſed of the <hi>builders,</hi> ſetting up themſelves in
+his place, and putting <hi>weapons</hi> into the evil <hi>ſervants</hi> hands
+to beat his <hi>fellow ſervants,</hi> becauſe the <hi>Lord</hi> and <hi>Maſter</hi>
+defers his coming, not knowing that our ſtrength is to ſit
+ſtill; other foundation can no man lay but that which is
+laid, even <hi>Jeſus Chriſt:</hi> and to make <hi>Paul</hi> or <hi>Apollo</hi> any
+thing, is by the <hi>Spirit</hi> of <hi>God</hi> in <hi>Paul,</hi> interpreted to be the
+laying of another <hi>foundation,</hi> and defiling the Temple of
+<hi>God,</hi> which he that doth, him ſhall <hi>God</hi> deſtroy, 1 <hi>Cor.</hi> 3.</p>
+            <p>That which is now held forth in ſome <hi>Propoſals,</hi> hath
+been the <hi>foundation</hi> of all the perſecution and confuſion
+which hath been in the <hi>Churches:</hi> how hath the <hi>God</hi> of
+this world blinded mens eyes? how are thoſe which
+were clothed in <hi>Scarlet,</hi> now imbracing the <hi>dunghils?</hi> my
+ſoul goes forth in pitty to them, ſure they ſhall be ſaved,
+but it will be by <hi>fire;</hi> but how would I ſave them from
+that fire, <hi>God</hi> is going on his way conquering and to con<g ref="char:EOLhyphen"/>quer,
+who will ſet the thorns and bryars againſt him? he
+will go through them, and burn them together: Mark
+where the indignation of the <hi>Lord</hi> hath of late fallen, even
+upon thoſe that have ſtood in his way, and would not
+give him free paſſage: there is no weapon hath proſpered
+againſt our preſent State, every tongue that hath riſen up
+in Judgement, hath been condemned: The hoſtility of
+the <hi>Biſhops,</hi> and the <hi>treachery</hi> joyned with <hi>hoſtility</hi> in the
+<hi>Presbyters,</hi> and now that <hi>Balams</hi> incantations are in vain,
+he hath nothing left him to do but this; <hi>Midian,</hi> bring
+forth your women to them, ſnare them with your <hi>pruden<g ref="char:EOLhyphen"/>tial</hi>
+               <pb n="9" facs="tcp:118059:7"/>
+way of <hi>Goſpel propagation<g ref="char:punc">▪</g>
+               </hi> tell them what a reproach
+lies upon them from all <hi>Nations,</hi> that they have no <hi>care</hi> of
+<hi>Religion,</hi> and that they give <hi>liberty</hi> to all <hi>hereſies</hi> and <hi>fan<g ref="char:EOLhyphen"/>taſtical
+ſpirits,</hi> but ere they begin again to vex with theſe
+<hi>wiles,</hi> the Lord by his <hi>Spirit</hi> will ſuddenly be upon them
+from his <hi>Temple,</hi> and his voice will be heard, <hi>vex the Mi<g ref="char:EOLhyphen"/>dianites,
+and ſmite them,</hi> and to the <hi>Moles</hi> and <hi>Bats,</hi> they go
+from the <hi>glory</hi> of his <hi>Majeſty,</hi> from henceforth be ſilent all
+fleſh.</p>
+            <p>The <hi>Philiſtims</hi> know where <hi>Sampſons</hi> ſtrength lies, but
+he hath been weak and blind long enough, he ſhall make
+you no more ſport with him, your houſe is left deſolate,
+his hands are ſhaking the main pillars of it, O ye <hi>Phili<g ref="char:EOLhyphen"/>ſtims!</hi>
+All the riſings and puttings forth of <hi>Antichriſt</hi> are
+fair and well looking, and there is nothing intended but
+weeding out the <hi>Tares,</hi> and the good of the <hi>Corn;</hi> but the
+<hi>Husbandman</hi> knows that by this <hi>husbandry</hi> the <hi>Wheat</hi> will
+be pulled up with the <hi>Tares;</hi> nay the <hi>Wheat</hi> will be de<g ref="char:EOLhyphen"/>ſtroyed,
+and the <hi>Tares</hi> nouriſhed, and the <hi>Lord</hi> is now re<g ref="char:EOLhyphen"/>ſolved
+that the <hi>Wheat</hi> ſhall ſpread and flouriſh, and he will
+come himſelf and ſever the <hi>Tares</hi> from it, and throw out
+theſe <hi>husbandmen,</hi> with them, into the fire.</p>
+            <p>The <hi>Spirit</hi> of <hi>Chriſt</hi> ſaith, <hi>Remove from theſe mens Tents.</hi>
+Your laſt <hi>Querie</hi> is concerning the Jews, whether they
+may be tolerated among us, or no? I am ſure that this is
+now in deſign in ſome <hi>Propoſals,</hi> which I believe the <hi>Pro<g ref="char:EOLhyphen"/>poſers</hi>
+do not ſee, therefore <hi>Father forgive them, for they
+know not what they do;</hi> even to caſt out, ſcatter, and de<g ref="char:EOLhyphen"/>ſtroy
+thoſe <hi>inward ſpiritual Iews,</hi> the ſeed of the bleſſed,
+which rejoyce in <hi>Chriſt Jeſus,</hi> and have no confidence in
+the fleſh; I have given my teſtimony in this thing, and it
+ſtands before the <hi>world</hi> in Print, and now I look when the
+<pb n="10" facs="tcp:118059:8"/>
+               <hi>Lord</hi> will witneſs unto me, not <hi>ſecretly</hi> to them; which he
+doth already but <hi>openly,</hi> for which work he is at the door.
+And ſo wiſhing you the preſence of the Lord with you, I
+reſt, waiting with you for his Kingdome, which is not of
+this world.</p>
+            <closer>
+               <dateline>
+                  <date>March 8. 1651.</date>
+               </dateline>
+               <signed>Yours
+CHRISTOPHER GOAD.</signed>
+            </closer>
+         </div>
+         <div type="part">
+            <pb n="11" facs="tcp:118059:8"/>
+            <head>A Teſtimony to the 4<hi rend="sup">th</hi>. Paper preſented
+by Major B<g ref="char:V">Ʋ</g>TLER to the
+Honorable Committee for
+Propagating the Goſpel.</head>
+            <p>IT is my humble Petition to the <hi>God</hi> of Heaven, to
+vouchſafe that Honourable <hi>Committee</hi> Time and
+Hearts to examine the <hi>Scriptures</hi> alleaged in that
+Paper: And at preſent, that they may pleaſe to weigh
+(with thoſe double <hi>weights</hi> of the <hi>Sanctuary</hi>) this hum<g ref="char:EOLhyphen"/>ble
+<hi>Explication</hi> of the Four <hi>Propoſals.</hi>
+            </p>
+            <p>Firſt, As to the firſt <hi>Head,</hi> viz. of <hi>Chriſt Jeſus</hi> ſending
+forth of his own <hi>Meſſengers:</hi> I humbly pray it may be
+remembred, that there is a twofold <hi>Miniſtry</hi> of <hi>Chriſt
+Jeſus.</hi>
+            </p>
+            <p>1. The one of <hi>Paſtors</hi> and <hi>Teachers,</hi>
+               <note place="margin">
+                  <hi>Epheſ.</hi> 4 11. The twofold Miniſtry of Chriſt Ieſus.</note> feeding the <hi>Flocks</hi>
+already <hi>Chriſtian</hi> and <hi>Converted.</hi>
+            </p>
+            <p>2. The other of <hi>Meſſengers</hi> or <hi>Apoſtles,</hi> ſent forth
+to <hi>convert</hi> and beget to <hi>Chriſt.</hi> Of this ſort I humbly
+conceive is the <hi>Sending</hi> now in debate before you: and
+of this ſort is that <hi>Sending</hi> and <hi>Queſtioning</hi> ſo large and
+punctual (<hi>Rom<g ref="char:punc">▪</g>
+               </hi> 10.) <hi>How can they Preach, except</hi> 
+               <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>,
+<hi>except they be</hi> Apoſtliz'd, or <hi>Sent?</hi> Upon which
+Diſtinction I humbly offer three things to be neceſſa<g ref="char:EOLhyphen"/>rily
+ſuppoſed. Firſt, <hi>Apoſtolical Gifts</hi> and <hi>Abilities</hi> in
+the Men <hi>ſent.</hi> Secondly, a greater <hi>ſpiritual power</hi> in the
+<pb n="12" facs="tcp:118059:9"/>
+               <hi>Senders,</hi> according to that Rule; <hi>Greater is the</hi> Sender
+<hi>then the</hi> Sent. Thirdly, it ſuppoſes an <hi>unconverted eſtate</hi>
+in the <hi>People</hi> to whom ſuch <hi>Meſſengers</hi> are ſent to preach
+and bap<gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ize. Which are three ſuch <hi>Knots,</hi> that none
+that I know of profeſſing <hi>Chriſt Jeſus,</hi> theſe many hun<g ref="char:EOLhyphen"/>dred
+years, have been able to untie, and to prove ſuch
+a <hi>Miniſtery</hi> extant, otherwiſe then by ſome (ſeeming)
+<hi>Prudential Inventions,</hi> or the Power of the <hi>Sword.</hi>
+Yet,</p>
+            <p>Secondly,<note place="margin">Chriſt Jeſus his fi<gap reason="illegible" resp="#OXF" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ſt im<g ref="char:EOLhyphen"/>mediate ſend<g ref="char:EOLhyphen"/>ing.</note> 
+               <hi>Chriſt Jeſus</hi> did immediately ſend forth
+his <hi>Meſſengers (Legatos à Latere</hi>) his <hi>LXX. Luc.</hi> 10.
+his XII, Firſt to the <hi>Jews,</hi> Mat. 10. afterwards to all
+<hi>Nations,</hi> Mar. 16. <hi>Chriſt Jeſus</hi> did immediately <hi>ſend</hi>
+forth by his <hi>Spirit,</hi> and mediately by the <hi>Church</hi> at <hi>An<g ref="char:EOLhyphen"/>tioch,</hi>
+Act. 13. He immediately ſtirr'd up <hi>Paul</hi> and <hi>A<g ref="char:EOLhyphen"/>pollos,</hi>
+&amp;c. not only without <hi>Civil,</hi> but alſo without
+<hi>Spiritual</hi> and <hi>Church power.</hi> Yea ſince the <hi>Apoſtaſie</hi> and
+<hi>Riſing</hi> of <hi>Antichriſt,</hi> He hath in all <hi>Ages</hi> ſtirr'd up his
+<hi>Prophets</hi> to witneſs (in a poor and mournful <hi>ſackcloth</hi>)
+<hi>Rev.</hi> 10. &amp; 11. &amp; 14 Chapters. The <hi>Waldenſes,</hi> the
+<hi>Wickleviſts,</hi>
+               <note place="margin">His ſending of Prophets all the Reign of Antichriſt.</note> the <hi>Huſsites,</hi> the <hi>Lutherans,</hi> the <hi>Calvi<g ref="char:EOLhyphen"/>niſts,</hi>
+&amp;c.</p>
+            <p>Theſe Proteſtant <hi>Witneſſes</hi> could never clear up their
+<hi>Functions</hi> or <hi>Miniſteries</hi> (as <hi>Biſhops</hi> or <hi>Presbyters</hi>) yet
+doubtleſs hath <hi>Chriſt Jeſus</hi> endowed them with Pro<g ref="char:EOLhyphen"/>phetical
+<hi>Gifts</hi> of <hi>Tranſlating</hi> and <hi>Expounding</hi> the <hi>Scri<g ref="char:EOLhyphen"/>ptures.</hi>
+I ſay, they were as <hi>Prophets</hi> immediately ſtirr'd
+up by <hi>Chriſt Jeſus;</hi> who doubtleſs hath now ſtirred up
+more then ever were in this <hi>Nation,</hi> men of Prophetical
+<hi>Gifts</hi> and <hi>Spirits,</hi> [<hi>Gentlemen, Lawyers, Phyſitians, Soul<g ref="char:EOLhyphen"/>diers,
+Tradeſmen</hi>] ſome adorned with <hi>Humane Learning,</hi>
+others only with the <hi>Scriptures.</hi> And doubtleſs ſuch is
+<pb n="13" facs="tcp:118059:9"/>
+his <hi>faithfulneſs</hi> and <hi>love</hi> to his <hi>Choſen,</hi> that he will yet
+ſtir up his <hi>Witneſſes</hi> and <hi>Prophets,</hi> yea and in his time
+<hi>Apoſtles</hi> and <hi>Meſſengers</hi> to the <hi>Nations</hi> of the World,
+whoſe<note n="*" place="margin">Of which I have ſpoken more particu<g ref="char:EOLhyphen"/>larly in the <hi>Hireling. Miniſtry &amp;c.</hi>
+               </note> 
+               <hi>Gifts, Calling, Work</hi> and <hi>Wages</hi> ſhall all be from
+Himſelf.</p>
+            <p>Laſtly, as to thoſe Terms of <hi>Teſtimony,</hi> or <hi>Reward</hi>
+of Men; I am far from obſtructing any <hi>countenance</hi>
+or <hi>encouragement</hi> to any whom <hi>Chriſt Ieſus</hi> ſtirs up.
+This only I ſay, 1. It ſeems to be an <hi>ungoſpel</hi> or
+<hi>unchriſtian</hi> task put upon the <hi>Civil State, viz.</hi> To
+grant <hi>Licences</hi> (as the <hi>Biſhops</hi>) for Preaching, &amp;c.
+2. It is not hard to gueſſe,<note place="margin">Were it not for the Magi<g ref="char:EOLhyphen"/>ſtrates ſword and mony, his Teſt or teſti<g ref="char:EOLhyphen"/>mony would be little re<g ref="char:EOLhyphen"/>garded.</note> That were it not for the
+Magiſtrates <hi>Pay</hi> and <hi>Sword,</hi> very few would be found
+to ſollicite his <hi>Teſt</hi> or <hi>Teſtimony.</hi> But doubtleſs ſuch
+<hi>Preachers,</hi> who (either <hi>above</hi> or <hi>under</hi> board) make a
+<hi>Bargain</hi> for ſo much, or ſo much, without which they
+will not be <hi>ſent;</hi> I humbly conceive they can never
+be ſaid to be <hi>ſent</hi> by <hi>Chriſt Jeſus,</hi> although all the <hi>Civil
+Powers</hi> in the World ſhould ſubſcribe to their <hi>Commiſ<g ref="char:EOLhyphen"/>ſions</hi>
+and <hi>Sendings.</hi>
+            </p>
+            <p>To the ſecond <hi>Head,</hi> of Permitting <hi>Falſe teachers</hi> and
+<hi>Hereticks:</hi> I am humbly confident, that (from the <hi>Scri<g ref="char:EOLhyphen"/>ptures</hi>
+alleadged) it will appear to be the <hi>will of God,</hi>
+that <hi>Chriſtians</hi> and <hi>Antichriſtians,</hi> the <hi>Wheat</hi> and
+the <hi>Tares,</hi> ſhould be permitted to dwell, to trade,
+to live and die in the <hi>common Field</hi> of the <hi>World</hi> to<g ref="char:EOLhyphen"/>gether.</p>
+            <p>2. Upon a due ſurvey it will be found, that the <hi>Lord
+Jeſus Chriſt</hi> himſelf, and his <hi>Servants,</hi> have moſt com<g ref="char:EOLhyphen"/>monly
+been accounted, and have ſuffered as the greateſt
+<hi>Deceivers, Seducers, Hereticks</hi> and <hi>Blaſphemers</hi> in the
+World.</p>
+            <p>
+               <pb n="14" facs="tcp:118059:10"/>
+3. The <hi>Body</hi> of this <hi>Nation,</hi> and of all <hi>Nations</hi> pro<g ref="char:EOLhyphen"/>feſſing
+<hi>Chriſtianity,</hi> profeſſing to know <hi>Chriſt Jeſus</hi> in
+<hi>word,</hi> and in <hi>works</hi> denying him, cannot but be acknow<g ref="char:EOLhyphen"/>ledged
+to live and die (if without Repentance) in con<g ref="char:EOLhyphen"/>ſtant
+<hi>real</hi> and <hi>practical Denyings</hi> and <hi>Blaſphemings</hi> of
+<hi>Chriſt Ieſus.</hi>
+            </p>
+            <p>4. <hi>Chriſt Ieſus</hi> hath not been without Care againſt
+<hi>Hereticks</hi> and <hi>Blaſphemers:</hi>
+               <note place="margin">Chriſt Ieſus his courſe with Blasphe<g ref="char:EOLhyphen"/>mers.</note>
+            </p>
+            <p>Firſt, by judging them that are within among the
+<hi>Saints:</hi> therefore (1 <hi>Tim.</hi> 1.) <hi>Paul</hi> delivered <hi>Hymineus</hi>
+and <hi>Alexander</hi> unto <hi>Sathan,</hi> that they may learn not to
+<hi>blaſpheme.</hi>
+            </p>
+            <p>Secondly, by judging them without: Firſt, ſome<g ref="char:EOLhyphen"/>times
+by horrible <hi>judgments</hi> in this life; ſometimes by
+ſubduing them by his <hi>Spirit,</hi> as <hi>Paul</hi> from his <hi>perſecuting</hi>
+and <hi>blaſphemous</hi> courſes.</p>
+            <p>Thirdly, As for the wilfully and finally <hi>obſtinate,</hi>
+they are ordained (ſaith <hi>Peter</hi> and <hi>Iude</hi>) to con<g ref="char:EOLhyphen"/>demnation;
+And their <hi>judgment</hi> and <hi>damnation</hi> ſleep<g ref="char:EOLhyphen"/>eth
+not.</p>
+            <p>To the third <hi>Head,</hi>
+               <note place="margin">The full de<g ref="char:EOLhyphen"/>bate of this point, may be ſeen in that great Contro<g ref="char:EOLhyphen"/>verſie of the <hi>Bloody Te<g ref="char:EOLhyphen"/>net,</hi> between Mr. <hi>Cotton</hi> and my ſelf.</note> concerning the <hi>Civil Magiſtrates</hi>
+Commiſſion in <hi>Spirituals,</hi> I humbly conceive,</p>
+            <p>1. That in theſe late years <hi>GOD</hi> hath made it evi<g ref="char:EOLhyphen"/>dent,
+that all <hi>Civil Magiſtracie</hi> in the World is meerly
+and eſſentially <hi>Civil;</hi> And that the <hi>Civil Magiſtrate</hi>
+can truly take cogniſance of nothing, as a <hi>Civil Ma<g ref="char:EOLhyphen"/>giſtrate,</hi>
+but what is proper and within his <hi>Civil</hi> Sphear.
+The <hi>Magiſtrate,</hi> if a <hi>Saint,</hi> hath a Spiritual power, and
+ſo have all <hi>Saints;</hi> and he that partakes more of
+<hi>Chriſts</hi> Spirit, hath more of <hi>Chriſts</hi> Power, whatever
+his outward condition be.</p>
+            <p>
+               <pb n="15" facs="tcp:118059:10"/>
+2. By the laſt Will and Teſtament of <hi>Chriſt Jeſus,</hi>
+we find not the leaſt title of <hi>Commiſsion</hi> to the <hi>Civil
+Magiſtrate</hi> (as <hi>Civil</hi>) to <hi>judge</hi> and <hi>act</hi> in the matters of
+his <hi>Spiritual Kingdom.</hi>
+            </p>
+            <p>3. That great pretence from the Land of <hi>Canaan,</hi>
+and the <hi>Kings</hi> of <hi>Iſrael</hi> and <hi>Judah,</hi> hath been in theſe
+late years proved but weak and ſandie, and the <hi>Lord
+Ieſus Chriſt</hi> himſelf to be the <hi>Antitype</hi> of all thoſe <hi>Fi<g ref="char:EOLhyphen"/>gures,</hi>
+the <hi>King</hi> and <hi>Head</hi> of all the <hi>Iſrael</hi> of <hi>God,</hi> Form<g ref="char:EOLhyphen"/>ing,
+Reforming his people, &amp;c.</p>
+            <p>Hence,<note place="margin">The Saints wil be Saints, whatever the Magiſtrates &amp; the Times be.</note> although it be the Duty of <hi>Kings, Queens,
+Magiſtrates</hi> to be nurſing Fathers and Mothers to the
+<hi>Saints:</hi> Although it be the <hi>Saints</hi> Duty to pray for
+<hi>Magiſtrates,</hi> that they may live <hi>peaceably</hi> under them in
+all <hi>Godlineſs</hi> and <hi>Honeſty,</hi> Jer. 29. and 1 <hi>Tim.</hi> 2. Yet
+ſuppoſe the <hi>Magiſtrates</hi> to be never ſo <hi>ungodly, idola<g ref="char:EOLhyphen"/>trous,
+blaſphemous, bloody,</hi> (as they were in the firſt 300
+years after Chriſt) yet <hi>Chriſt Ieſus</hi> failed not, nor wil,
+to preſerve his Saints in the <hi>Power</hi> and <hi>Spirit</hi> of true
+<hi>Chriſtianity</hi> and <hi>Godlineſs:</hi> And contrarily, the Saints
+never diſcovered ſo bright an Image of <hi>Chriſt Ieſus</hi>
+ſince, in thoſe times wherein <hi>Conſtantine</hi> and ſo many
+after him have uſed and drawn their Civil ſwords in
+Spiritual cauſes.</p>
+            <p>Our <hi>Fathers</hi> before us in <hi>England,</hi> though famous for
+<hi>Civil Laws,</hi> and <hi>Wars,</hi> and <hi>Victories,</hi> yet have they but
+trod the Round, and walked in a Circle; <hi>plant</hi> and
+<hi>pluck up, plant</hi> and <hi>pluck up;</hi> as we their Children do:
+and all for want of Commiſſions from <hi>Chriſt Ieſus,</hi> and
+his Inſtructions and Promiſes in ſuch a Work. The
+<hi>Parliament</hi> eſtabliſhed King <hi>Henry</hi> the 8. <hi>Head</hi> of the
+<hi>Church:</hi> this <hi>Supremacy</hi> hath continued in four <hi>Prote<g ref="char:EOLhyphen"/>ſtant
+<pb n="16" facs="tcp:118059:11"/>
+Princes</hi> ſince.<note place="margin">The bickerings of the <hi>Clergy</hi> from <hi>H.</hi> 8. his time, all ze<g ref="char:EOLhyphen"/>lous for the Civil ſword.</note> Yet firſt, what Diſagreements a<g ref="char:EOLhyphen"/>bout
+the <hi>Title?</hi> For while the <hi>Clergy</hi> have preacht
+the <hi>Jus Divinum</hi> of the Princes Authority in <hi>Spiri<g ref="char:EOLhyphen"/>tuals,</hi>
+after the pattern of the Kings of <hi>Iſrael</hi> and
+<hi>Iudah;</hi> the truth is, that Parliaments and People
+ſince have pleaded, That <hi>Princes</hi> could not receive
+but what the <hi>Parliaments</hi> gave them, and the <hi>Par<g ref="char:EOLhyphen"/>liaments</hi>
+could not give them but what the <hi>People</hi>
+gave the <hi>Parliament</hi> their <hi>Repreſentative;</hi> which could
+not poſſibly be a Spiritual and Soul-power.</p>
+            <p>Secondly, the Work hath never proſpered: but
+ſucceeding Times, more enlightened by <hi>Chriſt Ieſus,</hi>
+have ſtill been <hi>breaking down</hi> and <hi>pulling up.</hi> For in<g ref="char:EOLhyphen"/>ſtance:
+The <hi>Proteſtant Biſhops</hi> with their <hi>Engliſh Com<g ref="char:EOLhyphen"/>mon
+Prayer,</hi> ſupplanted the <hi>Popiſh Biſhops</hi> and their <hi>La<g ref="char:EOLhyphen"/>tine
+Maſſe:</hi> The <hi>Presbyterians</hi> and their <hi>Scotch Directo<g ref="char:EOLhyphen"/>ries,</hi>
+after ſome Diſputes, at laſt rout the <hi>Proteſtant Bi<g ref="char:EOLhyphen"/>ſhops</hi>
+and their <hi>Common-Prayers:</hi> Now the <hi>Parliament</hi>
+being graciouſly pleaſed to remind the Providence of
+the moſt <hi>High,</hi> in uſing <hi>Inſtruments</hi> of <hi>various Conſci<g ref="char:EOLhyphen"/>ences</hi>
+in their late Service, cannot but expect to be ſol<g ref="char:EOLhyphen"/>licited
+by ſome of theſe <hi>Conſciences,</hi> and to be zealouſly
+told, that <hi>Chriſtian</hi> Kings and Magiſtrates ſucceed the
+Kings of <hi>Iſrael</hi> and <hi>Iudah,</hi> in the power of Eſtabliſhing
+<hi>Religion,</hi> and Reforming it; of Defining <hi>Doctrines,</hi> eſpe<g ref="char:EOLhyphen"/>cially
+<hi>Fundamentals;</hi> of Puniſhing the contrary as
+<hi>Hereticks</hi> and <hi>Blaſphemers;</hi> of Granting <hi>Licences</hi> and
+Authority to <hi>Preachers,</hi> of ſeeing their <hi>VVages</hi> paid
+them, &amp;c. And therefore that they are bound, as they
+will anſwer it to God, to Chriſt, to their own ſouls,
+and the ſouls of others, to ſettle <hi>Religion,</hi> to Eſtabliſh
+ſomething, &amp;c. But,</p>
+            <p>
+               <pb n="17" facs="tcp:118059:11"/>
+My humble Prayer ſhall be to Him that is <hi>only wiſe,</hi>
+ſo to guide this Renowned <hi>Parliament,</hi> that they may
+ſee and ſhun the Rocks on which our <hi>Fathers</hi> (as touch<g ref="char:EOLhyphen"/>ing
+a <hi>State-Religion</hi>) both <hi>Papiſt</hi> and <hi>Proteſtant</hi> have
+made moſt woful ſhipwrack. And that they may be
+pleaſed to remember, that be the <hi>Plants</hi> never ſo <hi>new,</hi>
+ſo <hi>fair,</hi> ſo <hi>hopeful;</hi> yet while <hi>National,</hi> while <hi>State-plants,</hi>
+and <hi>inforced,</hi> our Spiritual Lord the <hi>Lord Ieſus</hi>
+will ſooner or later <hi>eradicate</hi> and pluck them up, untill
+at laſt the <hi>work</hi> and <hi>glory</hi> be given to Himſelf, to work
+freely and in his own way, by the free <hi>Breathings</hi> of his
+moſt <hi>powerfull Spirit,</hi> in the <hi>mouths</hi> and <hi>hearts</hi> of ſuch
+by whom and in whom he freely pleaſeth.</p>
+            <p>Hence, oh that it would pleaſe the <hi>Father</hi> of <hi>Spirits</hi>
+to affect the heart of the <hi>Parliament</hi> with ſuch a merci<g ref="char:EOLhyphen"/>ful
+ſenſe of the <hi>Soul-Bars</hi> and <hi>Yokes</hi> which our <hi>Fathers</hi>
+have laid upon the <hi>neck</hi> of this <hi>Nation,</hi> and at laſt to pro<g ref="char:EOLhyphen"/>claim
+a true and abſolute <hi>Soul-freedom</hi> to all the people
+of the Land impartially; ſo that no perſon be forced
+to <hi>pray</hi> nor <hi>pay,</hi> otherwiſe then as his Soul believeth and
+conſenteth.<note place="margin">Soul <gap reason="illegible" resp="#OXF" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> of mighty <gap reason="illegible" resp="#OXF" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap>
+                  <g ref="char:EOLunhyphen"/>ſequence to th<gap reason="illegible" resp="#OXF" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>s Nation.</note> This <hi>Act,</hi> as I believe it to be the abſolute
+will of <hi>God,</hi> as to this and all the oppreſſed Nations of
+the World; ſo will this moſt <hi>prudent State</hi> find it to be
+a principal Expedient for two great ends: Firſt, the
+<hi>eaſing</hi> and <hi>ſweetening</hi> the <hi>minds</hi> of the people of this
+Nation, who have ſo long cried out of <hi>Burthens,</hi> &amp;c.
+Secondly, the preventing all the <hi>Clergical</hi> Deſigns of
+one ſort or another, when the whole people of the
+Nation ſhall be engaged as one man to maintain that
+<hi>Power,</hi> that hath from <hi>Heaven</hi> ſet them free from ſo
+great and ſo long continued <hi>Slavery.</hi>
+            </p>
+            <p>Such a Service for <hi>God</hi> and the <hi>Nation,</hi> cannot but be
+<pb n="18" facs="tcp:118059:12"/>
+attended with many <hi>Objections:</hi> To all which (as alſo
+for ſome <hi>mercifull</hi> and <hi>humane conſideration</hi> (at leaſt for
+a ſeaſon) to ſuch of the <hi>Clergie,</hi> whom any <hi>Town</hi> or <hi>peo<g ref="char:EOLhyphen"/>ple</hi>
+of the Nation ſhall not freely cloſe with in <hi>Worſhip</hi>
+and <hi>Maintenance</hi>) the <hi>wiſdome</hi> of the moſt <hi>High</hi> is infi<g ref="char:EOLhyphen"/>nitely
+able to direct the <hi>Commonwealths High-Senate</hi> of
+<hi>Parliament;</hi> and doubtleſs will, if they humbly ſee
+their want, and beg ſupply from him.</p>
+            <p>Upon the <hi>Scriptures,</hi> and the fourth <hi>Head,</hi> as touch<g ref="char:EOLhyphen"/>ing
+the <hi>JEWS:</hi> I humbly conceive it to be the Duty
+of the <hi>Civil Magiſtrate</hi> to break down that ſuperſtitious
+<hi>wall</hi> of <hi>ſeparation</hi> (as to Civil things) between us <hi>Gentiles</hi>
+and the <hi>Jews,</hi> and freely (without their asking) to make
+way for their free and peaceable Habitation amongſt
+us. And the rather, becauſe that People (however for
+a ſeaſon under a moſt terrible <hi>Ecclipſe</hi>) yet,</p>
+            <p>1. The holy Scripture ſaith,<note place="margin">Arguments for permiſſion of the <hi>Jews.</hi>
+               </note> that they are a <hi>Beloved
+people,</hi> and <hi>beloved</hi> (as we ſometimes love <hi>unworthy chil<g ref="char:EOLhyphen"/>dren</hi>)
+for their <hi>Fathers</hi> ſake.</p>
+            <p>2. They are a <hi>people</hi> above all the <hi>peoples</hi> and <hi>Nati<g ref="char:EOLhyphen"/>ons</hi>
+in the World, under moſt gracious and expreſs
+Promiſes.</p>
+            <p>3. We <hi>Gentiles</hi> by their <hi>fall</hi> have had the occaſion
+of our <hi>riſing</hi> to the bleſſed and joyful Knowledge of a
+<hi>Saviour.</hi>
+            </p>
+            <p>4. Their <hi>riſing</hi> again to own and imbrace <hi>Chriſt Jeſus,</hi>
+is promiſed to be as <hi>life</hi> from the <hi>dead,</hi> not only to
+themſelves, but as to the propagating of <hi>Chriſt Jeſus</hi>
+to other peoples.</p>
+            <p>5. Out of ſome kind of ſenſe of theſe things, we
+pretend to <hi>look,</hi> and <hi>long,</hi> and <hi>pray</hi> for their <hi>Return</hi> and
+<hi>Calling.</hi>
+            </p>
+            <p>
+               <pb n="19" facs="tcp:118059:12"/>
+6. As other <hi>Nations,</hi>
+               <note place="margin">The Guilt of <hi>England,</hi> and the Kings of it, as to the <hi>Jews.</hi>
+               </note> ſo this eſpecially, and the <hi>Kings</hi>
+thereof, have had juſt cauſe to fear, that the <hi>unchriſtian
+oppreſsions, incivilities,</hi> and <hi>inhumanities</hi> of this <hi>Nation</hi>
+againſt the <hi>Jews,</hi> have cried to <hi>Heaven</hi> againſt this <hi>Na<g ref="char:EOLhyphen"/>tion</hi>
+and the <hi>Kings</hi> and <hi>Princes</hi> of it.</p>
+            <p>What horrible <hi>oppreſsions</hi> and horrible <hi>ſlaughters</hi> have
+the <hi>Iews</hi> ſuffered from the Kings and peoples of this
+Nation, in the Reigns of <hi>Henry</hi> 2. K. <hi>Iohn, Richard</hi> 1.
+and <hi>Edward</hi> 1. Concerning which not only we, but the
+<hi>Iews</hi> themſelves keep <hi>Chronicles?</hi>
+            </p>
+            <p>For the removing of which <hi>guilt,</hi> and the pacifying
+of the <hi>wrath</hi> of the moſt <hi>High</hi> againſt this Nation, and
+for the furthering of that great end of propagating the
+<hi>Goſpel</hi> of <hi>Chriſt Ieſus;</hi> It is humbly conceived to be a
+great and weighty Duty which lies upon this <hi>State,</hi> to
+provide (on the <hi>Iews</hi> account) ſome gracious <hi>Expedients</hi>
+for ſuch holy and truly <hi>Chriſtian</hi> Ends.</p>
+            <p>Laſtly,<note place="margin">Objections againſt the <hi>Jews.</hi>
+               </note> I humbly crave leave to ſay, That I am not
+without thoughts of many <hi>Objections,</hi> and cannot with<g ref="char:EOLhyphen"/>out
+<hi>horror</hi> think of the <hi>Iews</hi> killing of the <hi>Lord Ieſus;</hi> of
+their <hi>curſing</hi> themſelves and their <hi>poſterity;</hi> of the <hi>wrath</hi>
+of <hi>God</hi> upon them; of their denying the <hi>Fundamentals</hi>
+of all our <hi>Chriſtian Worſhip;</hi> of ſome <hi>crimes</hi> alleaged
+for which they have been ſo afflicted by this <hi>Nation;</hi>
+of their known Induſtry of inriching themſelves in all
+places where they come. But I dare not prejudice the
+high <hi>wiſdom</hi> and <hi>experience</hi> of the <hi>State,</hi> abundantly
+<hi>rich</hi> and able to provide anſwerable <hi>Expedients,</hi> if once
+it pleaſe the moſt <hi>High</hi> to affect their Honorable breaſts
+with the <hi>piety</hi> and <hi>equity,</hi> the <hi>duty</hi> and <hi>neceſsity</hi> of ſo
+great a Work.</p>
+            <closer>
+               <signed>R. VV.</signed>
+            </closer>
+         </div>
+         <div type="part">
+            <pb n="20" facs="tcp:118059:13"/>
+            <head>The humble Propoſals of the Miniſters
+who preſented the Petition to the Parliament,<note place="margin">Becauſe many have earneſtly deſired a ſight of the <hi>Mini<g ref="char:EOLhyphen"/>ſters Propo<g ref="char:EOLhyphen"/>ſals,</hi> they are therefore here ſubjoyned.</note> Feb. 11.
+and other Perſons, for the Furtherance and Propa<g ref="char:EOLhyphen"/>gation
+of the Goſpel in this Nation: wherein they
+having had equal Reſpect to all Perſons fearing God,
+though of differing judgments, do hope alſo that they
+will tend to <g ref="char:V">Ʋ</g>nion and Peace.</head>
+            <p>1. THat Perſons of <hi>Godlineſs</hi> and <hi>Gifts,</hi> in the <hi>U<g ref="char:EOLhyphen"/>niverſities</hi>
+and elſwhere, though not Ordained,
+may be admitted to preach the <hi>Goſpel,</hi> being ap<g ref="char:EOLhyphen"/>proved
+when they are called thereunto.</p>
+            <p>2. That no perſon ſhall be admitted to <hi>Trial</hi> and <hi>Appro<g ref="char:EOLhyphen"/>bation,</hi>
+unleſs he bring a <hi>Teſtimonial</hi> of his Piety and
+Soundneſs in the <hi>Faith,</hi> under the hands of ſix Godly <hi>Mini<g ref="char:EOLhyphen"/>ſters</hi>
+and <hi>Chriſtians</hi> gathered together for that end and
+purpoſe, unto whom he is perſonally known; of which num<g ref="char:EOLhyphen"/>ber
+two at the leaſt to be <hi>Miniſters.</hi>
+            </p>
+            <p>3. That a certain number of perſons, <hi>Miniſters</hi> and others
+of Eminencie, and known Ability and Godlineſs, be appoint<g ref="char:EOLhyphen"/>ed
+to ſit in every <hi>County,</hi> to examine, judge and approve
+all ſuch perſons, as being to preach the <hi>Goſpel,</hi> have recei<g ref="char:EOLhyphen"/>ved
+<hi>Teſtimony</hi> as above. And in caſe there ſhall not be
+found a competent number of ſuch perſons in the ſame <hi>Coun<g ref="char:EOLhyphen"/>ty,</hi>
+that others of one or more neighbour <hi>Counties</hi> be ad<g ref="char:EOLhyphen"/>joyned
+to them.</p>
+            <p>4. That care be taken for the removing the Reſidue of the
+<hi>Miniſters</hi> who are Ignorant, Scandalous, Nonreſident, of
+Diſturbers of the Publike peace: and of all <hi>Schoolmaſters</hi>
+who ſhall be found Popiſh, ſcandalous, or diſaffected to the
+Government of the <hi>Commonwealth.</hi>
+            </p>
+            <p>
+               <pb n="21" facs="tcp:118059:13"/>
+5. That to this end, a Number of perſons, <hi>Miniſters</hi> and
+others of eminent piety, zeal, faithfulneſs, ability and pru<g ref="char:EOLhyphen"/>dence,
+be appointed by Authority of Parliament to go through
+the <hi>Nation,</hi> to enquire after, examine, judge of, and eject
+all ſuch perſons as ſhall be found unfit for the <hi>Miniſtery,</hi> or
+teaching of <hi>Schools,</hi> being ſuch as above deſcribed.</p>
+            <p>6. That for the expediting this work, theſe perſons may
+be aſsigned in ſeveral <hi>Companies</hi> or <hi>Committees,</hi> to the
+ſix <hi>Circuits</hi> of the <hi>Nation,</hi> to reſide in each of the <hi>Counties</hi>
+for ſuch a convenient ſpace of time as ſhall be requiſite, un<g ref="char:EOLhyphen"/>till
+the work be done: And calling to their <hi>Aſſiſtance</hi> in
+their reſpective <hi>Circuits</hi> ſuch Godly and able <hi>Miniſters</hi> and
+others in each of the <hi>Counties</hi> where they ſhall reſide, to
+aſsiſt them in this work, as they ſhall think fit.</p>
+            <p>7. That theſe perſons ſo ſent and Commiſsioned, may be
+impower'd, before they ſhall depart out of each <hi>County,</hi> to
+return and to repreſent unto the <hi>Parliament</hi> the Names of
+fit and ſufficient perſons, <hi>Miniſters</hi> &amp; others to be appointed
+and approved of, ſuch as ſhall be called to preach the <hi>Goſpel</hi>
+in ſuch <hi>Counties:</hi> And in the mean time, the perſons ſo
+Commiſsioned as aforeſaid, ſhall have power while they re<g ref="char:EOLhyphen"/>ſide
+in each <hi>County,</hi> to examine, judge and approve of ſuch
+perſons, as having a Call to preach the <hi>Goſpel</hi> in ſuch
+<hi>Counties,</hi> ſhall upon ſuch <hi>Teſtimonial</hi> as aforeſaid, offer
+themſelves to ſuch <hi>Examination.</hi>
+            </p>
+            <p>8. That it be propoſed, that the <hi>Parliament</hi> be pleaſed to
+take ſome ſpeedy and effectual courſe, either by impowering
+the perſons in the ſeveral <hi>Counties</hi> to be appointed for
+Trial and Approbation of ſuch perſons as ſhall be called to
+preach the Goſpel there: Or in ſuch other way as they ſhall
+think fit, for the uniting and dividing of <hi>Pariſhes</hi> in the
+ſeveral <hi>Counties &amp; Cities</hi> within this <hi>Commonwealth,</hi>
+               <pb n="22" facs="tcp:118059:14"/>
+in reference to the preaching of the <hi>Goſpel</hi> there; ſaving
+the <hi>Civil rights</hi> and <hi>priviledges</hi> of each <hi>Pariſh.</hi>
+            </p>
+            <p>9. That all <hi>Miniſters</hi> ſo ſent forth and eſtabliſhed, be
+enjoyned and required to attend the ſolemn <hi>Worſhip</hi> of
+<hi>God,</hi> in <hi>Prayer, Reading</hi> and <hi>Preaching</hi> the <hi>Word,</hi>
+Catechiſing, and Expounding the <hi>Scriptures,</hi> as occaſion
+ſhall require, viſiting the ſick, and inſtructing from houſe
+to houſe; reſiding amongst the people to whom they are ſent,
+and uſing all care and dil<gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap>gence by all ways and means to win
+ſouls unto Chriſt.</p>
+            <p>10. That it is deſired, that no perſons be required to receive
+the <hi>Sacrament,</hi> further then their <hi>Light</hi> ſhall lead them
+unto. Nor no perſon ſent forth to preach, and already placed,
+or which ſhall be placed in any Pariſh within this Nation, be
+compelled to adminiſter the <hi>Sacrament</hi> to any, but ſuch as
+he ſhall approve of, as fit for the ſame.</p>
+            <p>11. That a <hi>Law</hi> may be provided, that all perſons what<g ref="char:EOLhyphen"/>ſoever
+within this <hi>Nation</hi> be required to attend to the pub<g ref="char:EOLhyphen"/>like
+Preaching of the <hi>Goſpel,</hi> every <hi>Lords</hi> Day, in places
+commonly allowed, and uſually called <hi>Churches,</hi> except
+ſuch perſons as through ſcruple of <hi>Conſcience</hi> do abſtain
+from thoſe Aſſemblies.</p>
+            <p>12. That whereas divers perſons are unſatisfied to come
+to the publike places of hearing the Word, upon this Account,
+that thoſe places were Dedicated and Conſecrated: That
+the <hi>Parliament</hi> will be pleaſed to declare, that ſuch places
+are made uſe of, and continued, only for the better convenien<g ref="char:EOLhyphen"/>cie
+of perſons meeting for the publike Worſhip of <hi>God,</hi> and
+upon no other conſideration.</p>
+            <p>13. That all perſons diſſenting from the <hi>Doctrine</hi> and
+Way of <hi>Worſhip</hi> owned by the <hi>State,</hi> or conſenting there<g ref="char:EOLhyphen"/>unto,
+and yet not having advantage or opportunity of
+<pb n="23" facs="tcp:118059:14"/>
+ſome of the publike Meeting-places, commonly called
+<hi>Churches;</hi> be required to meet (if they have any <hi>conſtant
+meetings</hi>) in places publikely known, and to give notice to
+ſome <hi>Magiſtrate</hi> of ſuch their place of ordinary meetings.</p>
+            <p>14. That this Honorable <hi>Committee</hi> be deſired to pro<g ref="char:EOLhyphen"/>poſe
+to the <hi>Parliament,</hi> That ſuch who do not receive, but
+oppoſe thoſe<note n="*" place="margin">
+                  <g ref="char:V">Ʋ</g>pon occa<g ref="char:EOLhyphen"/>ſion of which motion, the Miniſters were deſired to inſtance: who therefore preſented 15. Fundamen<g ref="char:EOLhyphen"/>tals, the Copy whereof is not yet come to my hand.</note> Principles of <hi>Chriſtian Religion,</hi> without ac<g ref="char:EOLhyphen"/>knowledgment
+whereof the Scriptures do clearly and plainly
+affirm that Salvation is not to be obtained, as thoſe formerly
+complained of by the <hi>Miniſters;</hi> may not be ſuffered to preach
+or promulgate any thing in oppoſition unto ſuch <hi>Principles.</hi>
+            </p>
+            <p>15. And further, That the <hi>Parliament</hi> be humbly de<g ref="char:EOLhyphen"/>ſired
+to take ſome ſpeedy and effectual courſe for the utter
+ſuppreſsing of that Abominable <hi>Cheat</hi> of <hi>Judicial Aſtro<g ref="char:EOLhyphen"/>logie,</hi>
+whereby the minds of Multitudes are corrupted, and
+turned aſide from depending upon the Providence of <hi>God,</hi>
+to put their Truſt in the Lyes of Men, and Deluſions of
+<hi>Sathan.</hi>
+            </p>
+            <p>Upon this new Project of theſe Fifteen <hi>Propoſals,</hi>
+and Fifteen <hi>Fundamentals:</hi> I do humbly beg of the
+<hi>Father of Spirits,</hi> that He will either graciouſly pleaſe
+to ſtir up the Hearts of theſe Worthy Men to put in
+ſome <hi>Chriſtian Retractation;</hi> or elſe the Hearts of ſome
+of his Faithful Witneſſes (againſt ſuch <hi>Graven Images</hi>)
+to preſent ſome faithful and truly <hi>Chriſtian Obſerva<g ref="char:EOLhyphen"/>tions.</hi>
+            </p>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
